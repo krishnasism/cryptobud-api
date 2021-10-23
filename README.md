@@ -1,6 +1,7 @@
-# Crypto Bud
+# Crypto Bud - API
 
 A mood based crypto tracking application. The main repository is private.
+
 I am creating the API before I connect everything to the main repository.
 
 Intending on keeping the API public so that anyone can use. 
