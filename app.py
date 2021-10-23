@@ -1,6 +1,7 @@
 from flask import Flask,request
-app = Flask(__name__)
 from getcryptoprices import Crypto
+
+app = Flask(__name__)
 @app.route('/')
 def blank():
     return 'Were you trying to query something?'
